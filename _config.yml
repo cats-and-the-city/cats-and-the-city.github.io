@@ -1,6 +1,6 @@
-title: Sex and the City San Fransisco edititon
-description: and the raise of the internet
-sitename: Crime data
+title: Cat's & the city 
+description:
+sitename: Cat's & the city
 baseurl: 'https://cats-and-the-city.github.io/'
 sass:
   sass_dir: /assets/_sass
